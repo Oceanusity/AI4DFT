@@ -1,5 +1,5 @@
 # Tradtional Physics
-keyword: particle, wave, wavefunction, operators.
+keywords: particle, wave, wavefunction.
 
 For the classic physics, object is treated as particle. It exists in a centain position $x$ with momentum $p = mv$.
 
