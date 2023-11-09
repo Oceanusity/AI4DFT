@@ -9,7 +9,8 @@ $f(\mathbf{r}, t) = Ae^{i(\mathbf{k}\mathbf{r} - \omega t)}$, where $A$ is the m
 Conceptually, wave is combined with magitude and phase denoting as $Ae^{i\theta}$. 
 With the periodical property of wave, the phase is changed cyclicaly with the time showing as $\theta = \omega t$, where $\omega$ is the angular frequency.
 
-<img src="https://github.com/Oceanusity/AI4DFT/tree/main/backgrounds/figs/Out_of_phase_AE.gif" width="500" class="center" alt="phase_with_time"/>
+![phase_with_time](backgrounds/figs/Out_of_phase_AE.gif)
+<!-- <img src="https://github.com/Oceanusity/AI4DFT/tree/main/backgrounds/figs/Out_of_phase_AE.gif" width="500" class="center" alt="phase_with_time"/> -->
 
 As shown in the figure, the phase $\theta$ changes periodically with time $t$ with a fix frequency $f$.
 # Schrödinger equation
