@@ -9,7 +9,7 @@ This is a collection about research papers and projects for developing AI and ma
 
 ## Quantum Tensor Learning
 * [Nat. Commun., HamGNN] [[paper](https://www.nature.com/articles/s41524-023-01130-4)][[code](https://github.com/QuantumLab-ZY/HamGNN)]
-  - a. Transferable equivariant graph neural networks for the Hamiltonians of molecules and solids.
+  - Transferable equivariant graph neural networks for the Hamiltonians of molecules and solids.
 * [ICML 2023, QHNet] [[paper](https://arxiv.org/abs/2306.04922)][[code](https://github.com/divelab/AIRS/tree/main/OpenDFT/QHNet)]
   - Efficient and Equivariant Graph Networks for Predicting Quantum Hamiltonian.
 * [arXiv, xDeepH][[paper](https://arxiv.org/abs/2211.10604)][[code](https://github.com/mzjb/xDeepH)]
