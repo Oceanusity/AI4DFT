@@ -23,7 +23,7 @@ Furthermore, with the concept of matter waves proposed by DeBroglie, particles c
 For the situation of standing wave which is time-independent, when the momentum of a particle is determined, the corresponding wavelength is established, enabling the representation wavefunction.
 
 # Time-independent Schrödinger Equation
-keywords: **momentum**, **operator**.
+keywords: **kinetic energy**, **momentum**, **operator**.
 
 When consider the electronic wavefunctions $\Psi(r_1, r_2, \cdots, r_n)$, it describes the states of all coupled electronics in this system. 
 For the stable and static system, the total energy of electronics is composed of coulumb potential and kinetic energy.
