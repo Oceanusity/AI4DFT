@@ -13,7 +13,7 @@ With the periodical property of wave, the phase is changed cyclicaly with the ti
 
 As shown in the figure imported from [Wiki](https://commons.wikimedia.org/wiki/File:Out_of_phase_AE.gif), the phase $\theta$ changes periodically with time $t$ with a fix frequency $f$. 
 
-As waves propagate through space, the phase varies with distance from the sound source with $\Delta \theta = \frac{2 \pi \bar{r}}{\lambda} = \mathbf{k} \mathbf{r}$, where $\mathbf{r}$ is the position vector from the sound source, $\lambda$ is the wavelength and $\mathbf{k} = \frac{2 \pi}{\lambda} \mathbf{r}$ is the wavevector.
+As waves propagate through space, the phase varies with distance from the sound source with $\Delta \theta = \frac{2 \pi \bar{r}}{\lambda} = \mathbf{k} \mathbf{r}$, where $\mathbf{r}$ is the position vector from the sound source, $\lambda$ is the wavelength and $\mathbf{k} = \frac{2 \pi}{\lambda} \frac{\mathbf{r}}{\bar{r}}$ is the wavevector.
 
 In conclusion, the waves can be denoted as $f(\mathbf{r}, t) = Ae^{i(\mathbf{k}\mathbf{r} - \omega t)}$ to consider the space and time dimension.
 
@@ -23,6 +23,16 @@ Furthermore, with the concept of matter waves proposed by DeBroglie, particles c
 For the situation of standing wave which is time-independent, when the momentum of a particle is determined, the corresponding wavelength is established, enabling the representation wavefunction.
 
 # Time-independent Schrödinger Equation
+
+When consider the electronic wavefunctions $\Psi(r_1, r_2, \cdots, r_n)$, it describes the states of all coupled electronics in this system. 
+For the stable and static system, the total energy of electronics is composed of coulumb potential and kinetic energy.
+For the kinetic energy, $K = \frac{1}{2} m_e v^2 = \frac{p^2}{2m_e}$. 
+With matter waves proposed by DeBroglie $\lambda = \frac{h}{p}$, then $K = \frac{h^2}{2m_e \lambda^2}$ and $\nabla^2 f(\mathbf{r}, t) = \frac{(2\pi)^2}{\lambda^2} f(\mathbf{r}, t)$. 
+Then, 
+$$\hat{K}  \Psi(r_1, r_2, \cdots, r_n) = \frac{p^2}{2m_e}  \Psi(r_1, r_2, \cdots, r_n) = \frac{h^2}{2m_e \lambda^2}  \Psi(r_1, r_2, \cdots, r_n) = \frac{\hbar^2}{2 m_e} \nabla^2 \Psi(r_1, r_2, \cdots, r_n)$$.
+
+For the coulumb potential, $V = - \sum_{i,j} \frac{ke_i e_j}{r_{ij}}$. 
+Combine these two together, $(\frac{\hbar^2}{2 m_e} \nabla^2 + V ) \Psi = E \Psi$, which is the time-independent schrödinger equation.
 
 
 # Reference
