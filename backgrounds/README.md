@@ -3,4 +3,4 @@ This part is built for providing essential and precise quantum physics and chemi
 
 # Guideline
 * [Tradtional Physics and Schrödinger Equation](https://github.com/Oceanusity/AI4DFT/blob/main/backgrounds/Schrodinger.md)
-* [Hartree Fock](https://github.com/Oceanusity/AI4DFT/blob/main/backgrounds/hartree.md)
+* [Hartree Fock](https://github.com/Oceanusity/AI4DFT/blob/main/backgrounds/HartreeFock.md)
