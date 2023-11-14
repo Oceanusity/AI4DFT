@@ -23,6 +23,7 @@ Furthermore, with the concept of matter waves proposed by DeBroglie, particles c
 For the situation of standing wave which is time-independent, when the momentum of a particle is determined, the corresponding wavelength is established, enabling the representation wavefunction.
 
 # Time-independent Schrödinger Equation
+keywords: **momentum**, **operator**.
 
 When consider the electronic wavefunctions $\Psi(r_1, r_2, \cdots, r_n)$, it describes the states of all coupled electronics in this system. 
 For the stable and static system, the total energy of electronics is composed of coulumb potential and kinetic energy.
@@ -33,7 +34,7 @@ $$\hat{K}  \Psi(r_1, r_2, \cdots, r_n) = \frac{p^2}{2m_e}  \Psi(r_1, r_2, \cdots
 
 For the coulumb potential, $V = - \sum_{i,j} \frac{ke_i e_j}{r_{ij}}$. 
 Combine these two together, $(\frac{\hbar^2}{2 m_e} \nabla^2 + V ) \Psi = E \Psi$, which is the time-independent schrödinger equation.
-
+Here, $\hat{H}= (\frac{\hbar^2}{2 m_e} \nabla^2 + V)$ is the Hamiltonian operator and the $\Psi$ is the corresponding eigen wavefunction. Note that operator takes function as input and maps it into another function.
 
 # Reference
 [LibreTextsChemistry: Basic Quantum Mechanical Models ](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Time_Dependent_Quantum_Mechanics_and_Spectroscopy_(Tokmakoff)/01%3A_Overview_of_Time-Independent_Quantum_Mechanics/1.03%3A_Basic_Quantum_Mechanical_Models)
