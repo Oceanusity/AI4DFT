@@ -28,9 +28,9 @@ keywords: **momentum**, **operator**.
 When consider the electronic wavefunctions $\Psi(r_1, r_2, \cdots, r_n)$, it describes the states of all coupled electronics in this system. 
 For the stable and static system, the total energy of electronics is composed of coulumb potential and kinetic energy.
 For the kinetic energy, $K = \frac{1}{2} m_e v^2 = \frac{p^2}{2m_e}$. 
-With matter waves proposed by DeBroglie $\lambda = \frac{h}{p}$, then $K = \frac{h^2}{2m_e \lambda^2}$ and $\nabla^2 f(\mathbf{r}, t) = \frac{(2\pi)^2}{\lambda^2} f(\mathbf{r}, t)$. 
+With matter waves proposed by DeBroglie $\lambda = \frac{h}{p}$, then $K = \frac{h^2}{2m_e \lambda^2}$ and $\nabla^2 f(\mathbf{r}, t) = - \frac{(2\pi)^2}{\lambda^2} f(\mathbf{r}, t)$. 
 Then, 
-$$\hat{K}  \Psi(r_1, r_2, \cdots, r_n) = \frac{p^2}{2m_e}  \Psi(r_1, r_2, \cdots, r_n) = \frac{h^2}{2m_e \lambda^2}  \Psi(r_1, r_2, \cdots, r_n) = \frac{\hbar^2}{2 m_e} \nabla^2 \Psi(r_1, r_2, \cdots, r_n).$$
+$$\hat{K}  \Psi(r_1, r_2, \cdots, r_n) = \frac{p^2}{2m_e}  \Psi(r_1, r_2, \cdots, r_n) = \frac{h^2}{2m_e \lambda^2}  \Psi(r_1, r_2, \cdots, r_n) = - \frac{\hbar^2}{2 m_e} \nabla^2 \Psi(r_1, r_2, \cdots, r_n).$$
 
 For the coulumb potential, $V = - \sum_{i,j} \frac{ke_i e_j}{r_{ij}}$. 
 Therefore, the time-independent schrödinger equation is shown as $$(\frac{\hbar^2}{2 m_e} \nabla^2 + V ) \Psi = E \Psi.$$
