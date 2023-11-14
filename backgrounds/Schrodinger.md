@@ -33,7 +33,7 @@ Then,
 $$\hat{K}  \Psi(r_1, r_2, \cdots, r_n) = \frac{p^2}{2m_e}  \Psi(r_1, r_2, \cdots, r_n) = \frac{h^2}{2m_e \lambda^2}  \Psi(r_1, r_2, \cdots, r_n) = \frac{\hbar^2}{2 m_e} \nabla^2 \Psi(r_1, r_2, \cdots, r_n)$$.
 
 For the coulumb potential, $V = - \sum_{i,j} \frac{ke_i e_j}{r_{ij}}$. 
-Combine these two together, $(\frac{\hbar^2}{2 m_e} \nabla^2 + V ) \Psi = E \Psi$, which is the time-independent schrödinger equation.
+Therefore, the time-independent schrödinger equation is shown as $(\frac{\hbar^2}{2 m_e} \nabla^2 + V ) \Psi = E \Psi$.
 Here, $\hat{H}= (\frac{\hbar^2}{2 m_e} \nabla^2 + V)$ is the Hamiltonian operator and the $\Psi$ is the corresponding eigen wavefunction. Note that operator takes function as input and maps it into another function.
 
 # Reference
