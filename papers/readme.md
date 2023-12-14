@@ -26,7 +26,7 @@ This is a collection about research papers and projects for developing AI and ma
 ## Electronic/Charge Density Prediction
 * [NeurIPs 2023, InfGCN][[paper](https://arxiv.org/abs/2311.10908)][[code](https://github.com/ccr-cheng/infgcn-pytorch)]
   - Equivariant Neural Operator Learning with Graphon Convolution.
-* [NeurIPs 2020, DeepDFT2][[paper](https://arxiv.org/abs/2112.00652)][[code](https://github.com/JoshRackers/equivariant_electron_density)]
+* [Npj Comput. Mater., DeepDFT2][[paper](https://arxiv.org/abs/2112.00652)][[code](https://github.com/JoshRackers/equivariant_electron_density)]
   - Equivariant graph neural networks for fast electron density estimation of molecules, liquids, and solids.
 * [NeurIPs 2020, DeepDFT][[paper](https://arxiv.org/pdf/2011.03346.pdf)][[code](https://github.com/peterbjorgensen/DeepDFT)]
   - DeepDFT: Neural Message Passing Network for Accurate Charge Density Prediction.
