@@ -23,6 +23,14 @@ This is a collection about research papers and projects for developing AI and ma
 * [Nat. Commun., SchNOrb] [[paper](https://www.nature.com/articles/s41467-019-12875-2)][[code](https://github.com/atomistic-machine-learning/SchNOrb)]
   - Unifying machine learning and quantum chemistry with a deep neural network for molecular wavefunctions.
 
+## Electronic/Charge Density Prediction
+* [NeurIPs 2023, InfGCN][[paper](https://arxiv.org/abs/2311.10908)][[code](https://github.com/ccr-cheng/infgcn-pytorch)]
+  - Equivariant Neural Operator Learning with Graphon Convolution.
+* [NeurIPs 2020, DeepDFT2][[paper](https://arxiv.org/abs/2112.00652)][[code](https://github.com/JoshRackers/equivariant_electron_density)]
+  - Equivariant graph neural networks for fast electron density estimation of molecules, liquids, and solids.
+* [NeurIPs 2020, DeepDFT][[paper](https://arxiv.org/pdf/2011.03346.pdf)][[code](https://github.com/peterbjorgensen/DeepDFT)]
+  - DeepDFT: Neural Message Passing Network for Accurate Charge Density Prediction.
+
 ## ML Density Functionals
 * [Science, DM21] [[paper](https://www.science.org/doi/10.1126/science.abj6511)][[code](https://github.com/google-deepmind/deepmind-research/tree/master/density_functional_approximation_dm21)]
   - Pushing the frontiers of density functionals by solving the fractional electron problem.
