@@ -8,6 +8,7 @@ Welcome to add pull request and open issues.
 * [Quantum Tensor Learning](https://github.com/Oceanusity/AI4DFT/tree/main/papers#quantum-tensor-learning)
 * [ML Density Functional](https://github.com/Oceanusity/AI4DFT/tree/main/papers#ml-density-functionals)
 * [DFT Optimization](https://github.com/Oceanusity/AI4DFT/tree/main/papers#dft-optimization)
+* [Electronic/Charge Density Prediction](https://github.com/Oceanusity/AI4DFT/tree/main/papers#electroniccharge-density-prediction)
 
 
 ## Backgrounds
